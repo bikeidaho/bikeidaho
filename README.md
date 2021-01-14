@@ -9,7 +9,7 @@ I am bikeidaho. Welcome to my Github page!
    1. Getting back into shape.  
    1. Being more present with my family. They are pretty rad!  
 
-- 🌱 I’m currently learning Python and React.JS
+- 🌱 I’m currently learning Python and React.JS while studying for my AWS Solutions Architect Associate exam.
 
 - 💬 Ask me about ...  
    1. Idaho
