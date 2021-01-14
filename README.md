@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am bikeidaho. Welcome to my Github page.  
+I am bikeidaho. Welcome to my Github page!  
 
 
 - 🔭 I’m currently working on ...
