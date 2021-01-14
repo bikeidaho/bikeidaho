@@ -4,8 +4,8 @@ I am bikeidaho. Welcome to my Github page.
 
 
 - 🔭 I’m currently working on ...
-   1. A React.JS website revamp for a local non-profit trail organisation.  
-   1. A full-stack, AWS project to redirect webhooks based upon dynamic criteria.  
+   1. A website revamp for a local non-profit trail organisation using React.JS.  
+   1. A full-stack project to redirect webhooks based upon dynamic criteria using AWS S3, AWS API Gateway, AWS Kinesis, AWS Lambda, AWS DynamoDB and AWS Amplify.  
    1. Getting back into shape. 2020 was not good to my physique.  
    1. Being more present with my family. They are pretty rad!  
 
