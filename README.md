@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am bikeidaho. Welcome to my Github page.
+
 - 🔭 I’m currently working on ...
    1. A Website revamp for a local non-profit trail organisation.
    1. Getting back into shape.
