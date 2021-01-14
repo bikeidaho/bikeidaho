@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**bikeidaho/bikeidaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   1. A Website revamp for a local non-profit trail organisation.
+   1. Getting back into shape.
+   1. Being more present with my family.
+
+- 🌱 I’m currently learning Python and React.JS
+
+- 💬 Ask me about Idaho, Mountain Biking, Trail Running, Coffee or really anything. I love to ramble.
+
+- 📫 How to reach me: Shoulder Tap, Email, SMS, POTS
+
+- 😄 Pronouns: He/Him/His
+
+- ⚡ Fun fact: 5th Generation Idahoan
+
