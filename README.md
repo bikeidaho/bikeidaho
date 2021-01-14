@@ -13,7 +13,7 @@ I am bikeidaho. Welcome to my Github page.
 
 - 💬 Ask me about ...  
    1. Idaho
-   1. Mountain Biking
+   1. Bicycles
    1. Trail Running
    1. Coffee
    1. Or really anything. I love to ramble!
