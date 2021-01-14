@@ -26,5 +26,5 @@ I am bikeidaho. Welcome to my Github page.
 
 - 😄 Pronouns: He/Him/His
 
-- ⚡ Fun fact: 5th Generation Idahoan
+- ⚡ Fun fact: I am a 5th Generation Idahoan
 
