@@ -10,7 +10,12 @@ I am bikeidaho. Welcome to my Github page.
 
 - 🌱 I’m currently learning Python and React.JS
 
-- 💬 Ask me about Idaho, Mountain Biking, Trail Running, Coffee or really anything. I love to ramble.
+- 💬 Ask me about ...  
+   1. Idaho
+   1. Mountain Biking
+   1. Trail Running
+   1. Coffee
+   1. Or really anything. I love to ramble!
 
 - 📫 How to reach me: Shoulder Tap, Email, SMS, POTS
 
