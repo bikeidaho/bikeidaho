@@ -18,7 +18,11 @@ I am bikeidaho. Welcome to my Github page.
    1. Coffee
    1. Or really anything. I love to ramble!
 
-- 📫 How to reach me: Shoulder Tap, Email, SMS, POTS
+- 📫 How to reach me ...
+   1. Shoulder Tap
+   1. Email
+   1. SMS
+   1. POTS
 
 - 😄 Pronouns: He/Him/His
 
